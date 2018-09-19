@@ -1,0 +1,11 @@
+{
+  "name": "NeoPlace token",
+  "version": "1.0.0",
+  "author": "NeoPlace teal",
+  "description": "",
+  "dependencies": {
+    "openzeppelin-solidity": "^1.12.0",
+    "truffle-assertions": "^0.4.0",
+    "truffle-hdwallet-provider": "0.0.6"
+  }
+}
